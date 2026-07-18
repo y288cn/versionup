@@ -23,7 +23,7 @@
 go get github.com/y288cn/versionup
 ```
 
-要求 Go 1.21+（本仓库使用 `go 1.21`）。
+要求 Go 1.22+（本仓库使用 `go 1.22`）。
 
 ## Quick Start
 
