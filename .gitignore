@@ -1,0 +1,32 @@
+# 编译产物 / 二进制
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# 测试与覆盖率
+*.cover
+coverage.txt
+coverage.out
+
+# 依赖（Go modules 模式不提交 vendor；如需锁定可取消注释）
+# vendor/
+
+# 临时 / 验证文件
+_probe*.txt
+*.part
+*.tmp
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 编辑器 / IDE
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
